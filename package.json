@@ -1,0 +1,18 @@
+{
+    "name": "digo-coffee-script",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-coffee-script",
+    "description": "digo 插件：使用 coffeescript 编译 CoffeeScript",
+    "keywords": [
+        "digo plugin",
+        "coffeescript"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "coffee-script": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
